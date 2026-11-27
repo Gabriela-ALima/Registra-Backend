@@ -1,0 +1,4 @@
+export enum Perfil {
+  COLABORADOR = 'COLABORADOR',
+  ASSOCIADO = 'ASSOCIADO',
+}
